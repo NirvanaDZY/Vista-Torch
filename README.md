@@ -1,6 +1,9 @@
-This is a demo for my thesis project, which can detect blind path and common obstacles. The app was developed by Flutter. The model is YOLO11m_MobileNetv4, which can run on your mobile phone without internet. 
+google drive: https://drive.google.com/file/d/1uzlqijRUDA4XVNUbhin6ek5py47ortoQ/view?usp=sharing
+百度网盘: https://pan.baidu.com/s/1hjbPuH9s7C_kms9_vNUyaw?pwd=u6iw 提取码: u6iw
 
-这是一个我论文项目的demo，它能检测盲道以及常见障碍物。用flutter开发。模型为YOLO11m_MobileNetv4，可以在手机中不联网运行。
+This is a demo for my thesis project, which can detect blind path and outdoor common obstacles. The app was developed by Flutter. The model is YOLO11m_MobileNetv4, which can run on your mobile phone without internet, and already embedded in the app. 
+
+这是一个我论文项目的demo，它能检测盲道以及户外常见障碍物。app用flutter开发。模型为YOLO11m_MobileNetv4，已经嵌入到app里，可以在手机中不联网运行。
 
 It can detect:
 它可以检测：
